@@ -1,0 +1,3 @@
+source_file,oid,reason
+table_ZTF-LC-Data73,1459106200006872,ValueError: only 3 good epochs (need 50)
+table_ZTF-LC-Data74,1583209200012600,ValueError: only 47 good epochs (need 50)
